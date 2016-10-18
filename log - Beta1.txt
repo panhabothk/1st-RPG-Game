@@ -1,0 +1,3 @@
+Beta 1:
+
+Known bugs - Misinterpretation of differences in Level 2 number guess mini-game.
